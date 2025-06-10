@@ -1,0 +1,16 @@
+workInfo:
+  title: "Fugue BWV 846"
+  fullTitle: "Prelude and Fugue in C major, BWV 846"
+  composer: "J.S. Bach"
+  workId: "bwv846"
+  movementName: "Fugue"
+  externalURL: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_major,_BWV_846"
+
+files:
+  audioPath: "bwv846.mp3"
+  
+musicalStructure:
+  totalDurationSeconds: 108.0
+  totalMeasures: 27
+  visualLeadTimeSeconds: 0.1
+
