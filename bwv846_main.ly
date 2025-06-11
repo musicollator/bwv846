@@ -1,5 +1,9 @@
 \version "2.25.26"
 
+\header {
+  tagline = ##f  % Removes LilyPond version info
+}
+
 global = {
   \key c \major
   \time 4/4
